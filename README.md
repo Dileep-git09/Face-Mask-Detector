@@ -17,6 +17,9 @@ A deep learning project to detect whether a person is wearing a face mask using 
 - Loss: Binary Crossentropy
 - Optimizer: Adam
 
+## Accuracy and Loss
+<img width="1200" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/6d41ced6-94f0-4c57-a57e-e256f2e0b115" />
+
 ## ⚡ Quick Start
 ```bash
 git clone https://github.com/Dileep-git09/mask-detector.git
